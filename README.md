@@ -1,4 +1,4 @@
-### I am Nick, hi there 👋
+### I'm Nick, hi there 👋
 
 - :cowboy_hat_face: I'm passionate about Full Stack Web Development and System/Network Administration
 - :open_book: I’m currently reading a web development bundle by [O'Reilly](https://www.oreilly.com/) and [Spin](https://en.wikipedia.org/wiki/Spin_(novel)) by Robert Charles Wilson
