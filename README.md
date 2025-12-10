@@ -3,5 +3,5 @@
 ![Screenshot](./cli.png)
 
 - :cowboy_hat_face: I'm passionate about Full Stack Web Development (inc. UI/UX), as well as System and Network Administration
-- :computer: I use daily Unix, GNU/Linux, CLI, PHP, Python (incl. ML with PyTorch), JavaScript/TypeScript, HTML, SCSS, MySQL, Ansible, Puppet, SH (Bash, ZSH, Fish), SSH, npm, debugging, analyzing logs and many more
+- :computer: I use daily Unix, GNU/Linux, CLI, PHP, Python (incl. ML/DL, PyTorch, RAG with Chroma), JavaScript/TypeScript, HTML, SCSS, MySQL, Ansible, Puppet, SH (Bash, ZSH, Fish), SSH, npm, debugging, analyzing logs and many more
 - :open_book: I'm currently reading System and Networking Administration, using an in-depth O'Reilly bundle
