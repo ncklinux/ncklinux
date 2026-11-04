@@ -8,7 +8,7 @@
 
 ### Tech Stack
 
-The following represents some of the technologies with which I have hands-on experience and is not an exhaustive list, as I have also worked with many other tools and platforms not listed below.
+A non-exhaustive overview of core technologies leveraged in production environments.
 
 <p>
 <picture>
